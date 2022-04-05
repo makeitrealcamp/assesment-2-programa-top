@@ -8,7 +8,7 @@ The deadline for delivery will be Friday, April 22.
 
 ## Mission in Classroom:
 
-All mentors to assign the `Assesment II` mission that you can find when exploring the missions in your course, there, go to module 9.
+All mentors to assign the `Assesment Backend` mission that you can find when exploring the missions in your course, there, go to module 9.
 
 The deadline to publish this mission is Friday, April 8.
 
