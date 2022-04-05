@@ -4,7 +4,7 @@ The objective of this mission is to put into practice what you have learned in t
 
 The mission consists of two parts: first you will have to build a RestFul api and then you will have to answer a series of questions. In the mission report you must add the link to the project repository and the answers to the questions.
 
-The deadline for delivery will be Friday, April 24.
+The deadline for delivery will be Friday, April 22.
 
 ## 1. Challenge
 
